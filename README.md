@@ -15,7 +15,7 @@
 
 <img src="Camz.jpg" width="400px" height="550px" align="right" alt="Avatar anime"/>
 
-<p>Oi, meu nome é Camila Correia e sou a nova garota de programa(brincadeira kkk) Para, a estagiária que compra café, mas para pessoas normais, a Novata. Sou a pessoa mais aleatória e aventureira que você irá conhecer e posso dizer que no auge dos meus 20 aninhos tenho um nível de experiência de um dos personagens de Se beber não case(mesmo nível de amigos doidos e aletórios)</p>
+<p>Oi, meu nome é Camila Correia e sou a nova garota de programa(brincadeira kkk) Para a Gabi, a estagiária que compra café, mas para pessoas normais, a Novata. Sou a pessoa mais aleatória e aventureira que você irá conhecer e posso dizer que no auge dos meus 20 aninhos tenho um nível de experiência de um dos personagens de Se beber não case(mesmo nível de amigos doidos e aletórios)</p>
 
 <p>PS: Sou apaixonada por gatos, manda foto do seu miau ai.</p>
 
