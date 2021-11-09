@@ -13,7 +13,7 @@
 </div>
 
 
-<img src="Camz.jpg" width="500px" height="500px" align="right" alt="Avatar anime"/>
+<img src="Camz.jpg" width="400px" height="550px" align="right" alt="Avatar anime"/>
 
 <p>Oi, meu nome é Camila Correia e sou a nova garota de programa(brincadeira kkk) Para, a estagiária que compra café, mas para pessoas normais, a Novata. Sou a pessoa mais aleatória e aventureira que você irá conhecer e posso dizer que no auge dos meus 20 aninhos tenho um nível de experiência de um dos personagens de Se beber não case(mesmo nível de amigos doidos e aletórios)</p>
 
